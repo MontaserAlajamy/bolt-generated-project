@@ -1,0 +1,30 @@
+.App {
+      text-align: center;
+    }
+
+    .App h1 {
+      margin-bottom: 20px;
+    }
+
+    .App ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .App li {
+      padding: 10px;
+      border-bottom: 1px solid #ccc;
+    }
+
+    .App li:last-child {
+      border-bottom: none;
+    }
+
+    .App li input[type="checkbox"] {
+      margin-right: 10px;
+    }
+
+    .App li span {
+      margin-left: 10px;
+    }
