@@ -6,7 +6,7 @@ import React from 'react';
     function App() {
       return (
         <div className="App">
-          <h1>Simple Todo App</h1>
+          <h1>Basic Todo App</h1>
           <TodoList />
         </div>
       );
